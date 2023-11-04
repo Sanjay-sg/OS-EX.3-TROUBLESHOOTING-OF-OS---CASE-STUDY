@@ -1,10 +1,10 @@
 # OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY
 
-AIM:
+### AIM:
 
 To Troubleshooting of Operating System
 
-STEPS:
+### STEPS:
 
 STEP 1: Identify the Problem
 
@@ -36,7 +36,7 @@ STEP 14: Backup Data
 
 STEP 15: Reinstall Operating system
 
-PROCEDURE:
+### PROCEDURE:
 STEP-1: Identify the Problem Start by determining the specific issue or error you're encountering. Is it a system crash, slow performance, software not working, or something else?
 
 ![1](https://github.com/Divya110205/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/119404855/5d275c1d-8158-4686-bc27-2a8356040aa8)
@@ -98,5 +98,5 @@ STEP-15:Reinstall Operating system As a last resort, you may need to reinstall t
 
 ![15](https://github.com/Divya110205/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/119404855/39f99ff4-4a64-413f-9366-8582ca42761e)
 
-RESULT:
+### RESULT:
 The Troubleshooting for the Operating System has been successfully done.
